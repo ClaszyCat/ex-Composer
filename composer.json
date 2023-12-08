@@ -1,0 +1,6 @@
+{
+  "require": {
+    "php-ai/php-ml": "^0.10.0",
+    "sastrawi/sastrawi": "1.2.0"
+  }
+}
